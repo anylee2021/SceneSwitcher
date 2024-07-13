@@ -96,6 +96,8 @@ target_sources(
           lib/macro/macro-action-macro.hpp
           lib/macro/macro-action-queue.cpp
           lib/macro/macro-action-queue.hpp
+          lib/macro/macro-action-script.cpp
+          lib/macro/macro-action-script.hpp
           lib/macro/macro-action-variable.cpp
           lib/macro/macro-action-variable.hpp
           lib/macro/macro-action.cpp
@@ -128,6 +130,8 @@ target_sources(
           lib/macro/macro-ref.hpp
           lib/macro/macro-run-button.cpp
           lib/macro/macro-run-button.hpp
+          lib/macro/macro-script-handler.cpp
+          lib/macro/macro-script-handler.hpp
           lib/macro/macro-segment-copy-paste.cpp
           lib/macro/macro-segment-copy-paste.hpp
           lib/macro/macro-segment-list.cpp
